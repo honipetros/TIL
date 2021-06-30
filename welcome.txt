@@ -3,3 +3,4 @@
        실수 (소수점) float, double            8개 기본형 
   논리  boolean true
                      false
+                     hello
